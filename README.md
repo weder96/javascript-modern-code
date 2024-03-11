@@ -2,13 +2,6 @@
 
 ![image](./images/melhorar.png)
 
-[Documentations Languages](https://devdocs.io/)
-
-Playground Test Javascript
-[es5 play Validation](https://eslint.org/play/#eyJ0ZXh0IjoidmFyIG1vdmltZW50c1BlcnNvbiA9IFt7a2V5OiA3fV1cbmZ1bmN0aW9uIGxvYWRGb3JVc2luZ0tleSgpe1xuICBmb3IodmFyIGtleSBpbiBtb3ZpbWVudHNQZXJzb24pe1xuICAgIGlmKGtleSA9PT0gJzcnKXt9XG4gICAgICBjb25zb2xlLmxvZygnbW92aW1lbnQ6ICcsIG1vdmltZW50c1BlcnNvbltrZXldKVxuICB9XG59Iiwib3B0aW9ucyI6eyJlbnYiOnt9LCJydWxlcyI6e30sInBhcnNlck9wdGlvbnMiOnsiZWNtYUZlYXR1cmVzIjp7fSwiZWNtYVZlcnNpb24iOjUsInNvdXJjZVR5cGUiOiJzY3JpcHQifX19)
-
-[Playground CodePen](https://codepen.io/your-work)
-
 # **Divided into 5 phases:**
 
 1. Mastering Clean Code using Javascript ES5 and ES6+
@@ -205,7 +198,7 @@ These refactorings are JavaScript specific and should help to improve the design
 
 ---
 
-# **6 Sites to Learn Best Coding Practices 🔥🔥**
+# **7 Sites to Learn Best Coding Practices 🔥🔥**
 
 1. [Patterns Dev](https://www.patterns.dev/)
 2. [Airbnb](https://github.com/airbnb/javascript)
@@ -213,6 +206,13 @@ These refactorings are JavaScript specific and should help to improve the design
 4. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 5. [Refactoring Guru](https://refactoring.guru)
 6. [refactoring Catalog/](https://refactoring.com/catalog/)
+7. [Documentations Languages](https://devdocs.io/)
+
+# **Playground Test Javascript**
+
+[es5 play Validation](https://eslint.org/play/#eyJ0ZXh0IjoidmFyIG1vdmltZW50c1BlcnNvbiA9IFt7a2V5OiA3fV1cbmZ1bmN0aW9uIGxvYWRGb3JVc2luZ0tleSgpe1xuICBmb3IodmFyIGtleSBpbiBtb3ZpbWVudHNQZXJzb24pe1xuICAgIGlmKGtleSA9PT0gJzcnKXt9XG4gICAgICBjb25zb2xlLmxvZygnbW92aW1lbnQ6ICcsIG1vdmltZW50c1BlcnNvbltrZXldKVxuICB9XG59Iiwib3B0aW9ucyI6eyJlbnYiOnt9LCJydWxlcyI6e30sInBhcnNlck9wdGlvbnMiOnsiZWNtYUZlYXR1cmVzIjp7fSwiZWNtYVZlcnNpb24iOjUsInNvdXJjZVR5cGUiOiJzY3JpcHQifX19)
+
+[Playground CodePen](https://codepen.io/your-work)
 
 --
 
