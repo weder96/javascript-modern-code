@@ -151,6 +151,24 @@ Playground Test Javascript
 - 6.12 - How to Merge Two Arrays as One
 - 6.13 - How to Search an Array
 
+[WorkJsRefactoring](./code/WorkJsRefactoring.js)
+
+### - 7. Define Functions Refactoring
+
+- 7.01 - Define Functions Separeted Action using JavaScript
+
+[WorkJSCyclomaticComplexity](./code/WorkJSCyclomaticComplexity.js)
+
+### - 8. Cyclomatic Complexity
+
+- 8.01 - Refactoring Cyclomatic Complexity JavaScript
+
+[WorkJsFetchApi](./code/WorkJsFetchApi.js)
+
+### - 9. Call Api Using Fetch Javascript
+
+- 9.01 - Call Api
+
 ---
 
 # JavaScript Refactoring Patterns

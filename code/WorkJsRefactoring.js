@@ -137,12 +137,7 @@ loadcontract(modelContract, contract);
 
 function loadcontract(modelContract, contract) {
   var arrFunding = ["rateCode", "cost", "indexPercentage", "externalId"];
-  var arrCompare = [
-    "codigoIndexadorTaxaJurosFlexCube",
-    "taxaCusto",
-    "prtgIndxTax",
-    null,
-  ];
+  var arrCompare = ["codigoIndexadorRate", "taxa", "prtgIndxTax", null];
   arrFunding.map(function (arr, indx) {
     contract.funding[arr] = modelContract.boletaFuncao[arrCompare[indx]];
   });
