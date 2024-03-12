@@ -198,6 +198,17 @@ These refactorings are JavaScript specific and should help to improve the design
 
 ---
 
+---
+
+# **6 Refactoring Techniques🔥🔥**
+
+1. [Composing Methods](https://refactoring.guru/refactoring/techniques/composing-methods)
+2. [Moving Features Between Objects](https://refactoring.guru/refactoring/techniques/moving-features-between-objects)
+3. [Organizing Data](https://refactoring.guru/refactoring/techniques/organizing-data)
+4. [Simplifying Conditional Expressions](https://refactoring.guru/refactoring/techniques/simplifying-conditional-expressions)
+5. [Simplifying Method Calls](https://refactoring.guru/refactoring/techniques/simplifying-method-calls)
+6. [Dealing With Generalization](https://refactoring.guru/refactoring/techniques/dealing-with-generalization)
+
 # **7 Sites to Learn Best Coding Practices 🔥🔥**
 
 1. [Patterns Dev](https://www.patterns.dev/)
@@ -205,7 +216,7 @@ These refactorings are JavaScript specific and should help to improve the design
 3. [Clean Code Javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 4. [System Design Primer](https://github.com/donnemartin/system-design-primer)
 5. [Refactoring Guru](https://refactoring.guru)
-6. [refactoring Catalog/](https://refactoring.com/catalog/)
+6. [refactoring Catalog](https://refactoring.com/catalog/)
 7. [Documentations Languages](https://devdocs.io/)
 
 # **Playground Test Javascript**
